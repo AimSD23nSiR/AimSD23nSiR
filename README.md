@@ -7,7 +7,7 @@ return data to systems if
 else will get engine jacked; void data leak
 
 
-async[] put
+async[] error
 
 
 
@@ -18,7 +18,6 @@ async[] put
 
 }
 
-[
-always-raw-tcp-keywords = %INSERT% "Content-Type: application/pairing+tlv8"]
+[always-raw-tcp-keywords = %INSERT% "Content-Type: application/pairing+tlv8"]
 
 }
