@@ -1,1 +1,34 @@
-bye
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gather component of URL-elements explained in 
+
+The reaction is: ²H + ³H → ⁴He + n + energy Step 1: The Physics - Deuterium (²H): One proton, one neutron, mass = 2.01410178 u. - Tritium (³H): One proton, two neutrons, mass = 3.01604928 u. - Helium-4 (⁴He): Two protons, two neutrons, mass = 4.002602 u. - Neutron (n): Mass = 1.00866492 u. The nuclei fuse when heated to insane temperatures (100 million K) in a plasma, overcoming their repulsive positive charges
