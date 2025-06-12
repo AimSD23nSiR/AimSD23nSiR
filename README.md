@@ -8,7 +8,7 @@ use this for now - https://www.icloud.com/shortcuts/c40ca2e743b748a1a34d474ebb6b
 
 
 
-
+https://www.icloud.com/shortcuts/7c659b2234f04159b471baeaf392b313
 
 
 
