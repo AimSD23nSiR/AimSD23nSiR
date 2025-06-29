@@ -11,7 +11,7 @@ use this for now - https://www.icloud.com/shortcuts/c40ca2e743b748a1a34d474ebb6b
 https://www.icloud.com/shortcuts/7c659b2234f04159b471baeaf392b313
 
 
-
+https://www.icloud.com/shortcuts/c7479de89a314176a5ff0b62770e6fd9
 
 
 
