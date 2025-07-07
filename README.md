@@ -100,7 +100,7 @@ https://www.icloud.com/shortcuts/c7479de89a314176a5ff0b62770e6fd9
 
 
 
-
+// Manifest version 2 browser.tabs.executeScript(1, {   frameId: 1,   code:[ oilfield won't release H 4 me 🧐😕🥲] "document.body.style.background = '#00000';" });
 
 Gather component of URL-elements explained in 
 
